@@ -1,2 +1,3 @@
 # Trabalho-dirigido
-Usos práticos de dicionários em Python
+
+Na linha de comando, depois de executar o script, o usuário deve observar as possíveis sequências de Códons e escolher duas sequências para imprimir seus respectivos nomes como aminoácidos
